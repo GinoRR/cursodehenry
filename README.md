@@ -1,2 +1,1 @@
-# cursodehenry
-clase de repositorio modulo 2
+esta es una prueba de como cambiar mi repositorio de la nube githud a mi computadora
